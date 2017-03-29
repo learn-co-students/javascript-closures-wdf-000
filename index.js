@@ -1,5 +1,6 @@
 const app = "I don't do much."
 
+var done = "finished";
 
 function fatBastard(meal) {
   function whatsForDinner() { // whatsForDinner() is an inner function, a closure
